@@ -1,8 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-1
-2
-这是我改的代码
-这是小李子改的代码
-111
-222
+大家准备开发了，各自在dev分支下创建自己的分支就可以
